@@ -169,6 +169,7 @@ Launch Team Dashboard, test organizational communication safety use cases, begin
 | Platform API dependency | 3 platforms launching simultaneously |
 | Regulatory compliance | DPDPA-compliant by design |
 | Churn risk | Regret Score streak sustains long-term engagement |
+| Generic AI Rewrite Suggestions | On-device personalization based on acceptance history |
 
 ---
 
