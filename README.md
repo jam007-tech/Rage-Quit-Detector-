@@ -1,9 +1,12 @@
 # Rage Quit Detector
+<img width="925" height="584" alt="image" src="https://github.com/user-attachments/assets/83e0b0bf-b1fd-4aff-a229-4f66112621cc" />
+
 
 > *"The seatbelt for digital communication."*
 > *"The goal isn't to block communication — it's to create space for better decisions."*
 
 **Rage Quit Detector** is an on-device AI browser extension and mobile app that detects emotional spikes from typing behavior and intercepts high-risk digital actions before they happen — protecting careers, relationships, and portfolios from impulsive communication.
+
 
 ---
 
