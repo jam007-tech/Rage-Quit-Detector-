@@ -100,9 +100,6 @@ Communicates daily with leadership, clients, and engineers under high pressure. 
 **Nirbhay, 29 — Retail Investor, Delhi**
 Rs. 40,000 invested across 12 stocks, checks portfolio 8x daily. Lost 18% of his portfolio panic-selling during a dip. Knows emotional trading hurts him but can't stop in the moment. → *Willing to pay: $8–13/month*
 
-**Dr. Sarah, 42 — Hospital Physician, Lucknow**
-Manages 6 direct reports under extreme cognitive load. A single heated reply to an administrator resulted in a formal HR inquiry. Needs a system that catches worst moments before they define a career. → *Willing to pay: $10/month personal, or $6/seat via hospital HR budget*
-
 ---
 
 ## Pricing
